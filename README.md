@@ -11,6 +11,11 @@ Currently I develop with 2 types of technology stacks:
 I hope to upload other projects with new technologies soon.
 
 My hobbies: Cinema 🎞, videogames 🎮 and traveling 🛫.
+
+If you want to contact me or know more about me:
+
+- [LinkedIn](https://www.linkedin.com/in/nicolas-fernandez-politino-844618230/)
+- [email](nicofernandez2013.nf@gmail.com)
 <!--
 **NicoFernandez1988/NicoFernandez1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
