@@ -4,9 +4,9 @@ Dedicated to the design and development of web pages for about 2 years. But i co
 
 Currently I develop with 2 types of technology stacks:
 
-The first {Bootstrap, Spring, Java and MySQL}
+ {Bootstrap, Spring, Java and MySQL}
 
-The second {Bootstrap, Laravel, PHP and MySQL}
+ {Bootstrap, Laravel, PHP and MySQL}
 
 I hope to upload other projects with new technologies soon.
 
