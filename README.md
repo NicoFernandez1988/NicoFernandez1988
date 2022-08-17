@@ -1,4 +1,4 @@
-### Hi there 👋 I´m Nico Fernandez, a full stack developer jr.
+### Hi there 👋 I´m Nico Fernandez, a full stack developer.
 
 Dedicated to the design and development of web pages for about 2 years. But i continue to learn passionately every day.
 
