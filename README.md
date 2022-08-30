@@ -4,7 +4,7 @@ Dedicated to the design and development of web pages for about 2 years. But i co
 
 Currently I develop with these technologies:
 
- {Bootstrap, Angular, Spring, Laravel, PHP, Java and MySQL}
+ {Bootstrap, Angular, Spring, Laravel, PHP, Java, Python and MySQL}
 
 I hope to upload other projects with new technologies soon.
 
